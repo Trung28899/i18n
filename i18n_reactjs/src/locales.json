@@ -1,0 +1,10 @@
+{
+  "en": {
+    "greeting": "Hello, World!",
+    "message": "Welcome to my app"
+  },
+  "fr": {
+    "greeting": "Bonjour le monde !",
+    "message": "Bienvenue sur mon application"
+  }
+}
