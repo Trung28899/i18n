@@ -1,0 +1,29 @@
+{
+	"table": {
+		"action": { "moreDetails": "More Details", "resetPassword": "Reset Password" },
+		"header": {
+			"firstName": "First Name",
+			"id": "ID",
+			"lastName": "Last Name",
+			"organization": "Organization",
+			"status": "Status",
+			"userName": "Username",
+			"email": "Email"
+		},
+		"title": "User List"
+	},
+	"userProfile": {
+		"header": "User Details",
+		"label": {
+			"email": "Email",
+			"entity": "Entity",
+			"firstName": "First Name",
+			"lastName": "Last Name",
+			"organization": "Organization",
+			"status": "Status",
+			"phoneNumber": "Phone Number"
+		},
+		"placeholder": { "entity": "Entity", "organization": "Organization" },
+		"title": "Profile Information"
+	}
+}

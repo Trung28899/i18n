@@ -1,0 +1,162 @@
+{
+	"campaignPartnerManagement": {
+		"title": "Campaign Partners",
+		"header": "New Campaign Partner"
+	},
+	"campaignPrograms": {
+		"createTitle": "New Campaign Program",
+		"createSubTitle": "Campaign Program Information",
+		"programName": "Program Name",
+		"start": "Start Date",
+		"end": "End Date",
+		"details": "Details",
+		"program": "Programs"
+	},
+	"campaignPartnerDetails": {
+		"header": "Details",
+		"title": "Campaign Partner"
+	},
+	"collectorManagement": {
+		"table": {
+			"action": { "moreDetails": "More Details" },
+			"header": {
+				"address": "Address",
+				"category": "Category",
+				"email": "Email",
+				"id": "ID",
+				"name": "Name",
+				"scheme": "Scheme"
+			},
+			"title": "Collectors"
+		}
+	},
+	"createNewCollector": {
+		"header": "New Collector",
+		"titleInfo": "Collector Information",
+		"titleSubsidy": "Frontline Cleaners Subsidy",
+		"label": {
+			"address": "Address",
+			"category": "Category",
+			"district": "District",
+			"email": "Email",
+			"name": "Name",
+			"scheme": "Scheme",
+			"subsidySection": "Subsidy amount defined as HKD per unit (bottle/can/carton)"
+		},
+		"placeholder": {
+			"category": "Enter Category",
+			"district": "Enter District",
+			"scheme": "Enter Scheme"
+		}
+	},
+	"collectorDetails": {
+		"title": "Collector Details"
+	},
+	"createNewRecycler": {
+		"header": "New Recycler",
+		"titleInfo": "Recycler Information",
+		"titleSubsidy": "Recycler Subsidy",
+		"label": {
+			"address": "Address",
+			"category": "Category",
+			"district": "District",
+			"email": "Email",
+			"name": "Name",
+			"scheme": "Scheme",
+			"subsidySection": "Subsidy amount defined as HKD per unit (bottle/can/carton)"
+		}
+	},
+	"locationManagement": {
+		"table": {
+			"header": {
+				"acceptableContainer": "Acceptable Container",
+				"address": "Address",
+				"category": "Category",
+				"district": "District",
+				"id": "ID",
+				"location": "Location",
+				"name": "Name",
+				"operator": "Operator",
+				"region": "Region"
+			},
+			"title": "Locations"
+		},
+		"fileUpload": "File Upload",
+		"singleEntry": "Single Entry",
+		"modal": {
+			"title": "Bulk Upload Locations",
+			"uploadComplete": "Upload Complete",
+			"uploadFailed": "File cannot be uploaded due to the following issue(s), please check and try again."
+		},
+		"searchPlaceHolder": "Search by keyword"
+	},
+	"locationDetails": {
+		"header": "Location Information",
+		"title": "Details",
+		"label": {
+			"name": "Name",
+			"address": "Address",
+			"region": "Region",
+			"district": "District",
+			"acceptableContainer": "Acceptable Containers",
+			"category": "Category",
+			"operator": "Operator",
+			"status": "Status",
+			"openingHours": "Opening Hours",
+			"latitude": "Latitude",
+			"longitude": "Longitude",
+			"internalCategory": "Category (internal use)",
+			"cashRebate": "Cash Rebate",
+			"noneCashRebate": "None-Cash Rebate",
+			"paymentMethod": "Payment Method",
+			"remarks": "Remarks"
+		}
+	},
+	"locationCreate": {
+		"header": "New Location",
+		"title": "New Location",
+		"label": {
+			"name": "Name",
+			"address": "Address",
+			"region": "Region",
+			"district": "District",
+			"acceptableContainer": "Acceptable Containers",
+			"category": "Category",
+			"operator": "Operator",
+			"status": "Status",
+			"openingHours": "Opening Hours",
+			"latitude": "Latitude",
+			"longitude": "Longitude",
+			"internalCategory": "Category (internal use)",
+			"cashRebate": "Cash Rebate",
+			"noneCashRebate": "None-Cash Rebate",
+			"paymentMethod": "Payment Method",
+			"remarks": "Remarks"
+		}
+	},
+	"recyclerManagement": {
+		"title": "Recyclers",
+		"table": {
+			"header": {
+				"id": "ID",
+				"name": "Name",
+				"address": "Address",
+				"email": "Email",
+				"category": "Category",
+				"scheme": "Scheme"
+			}
+		}
+	},
+	"recyclerDetails": {
+		"header": "Details",
+		"title": "Recycler Information",
+		"label": {
+			"name": "Name",
+			"address": "Address",
+			"category": "Category",
+			"district": "District",
+			"email": "Email",
+			"scheme": "Scheme"
+		}
+	}
+}

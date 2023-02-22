@@ -1,0 +1,251 @@
+{
+	"dataCollectionCreate": {
+		"title": "加入收集數據",
+		"editTitle": "編輯收集數據",
+		"viewTitle": "檢視收集數據",
+		"header": "紀錄詳情",
+		"label": {
+			"tripNumber": "磅飛號碼",
+			"pickupId": "提取ID",
+			"pickupSource": "提取來源",
+			"pickupName": "名字",
+			"collectionDate": "收集日期",
+			"location": "地點",
+			"recycler": "回收商",
+			"packagingType": "包裝種類",
+			"volumeBag": "收集量 (袋)",
+			"volumeBin": "收集量 (桶)",
+			"volumeKg": "收集量 (公斤)",
+			"adjustedWeight": "估算重量 (公斤)",
+			"estimatedWeight": "估算重量 (公斤)",
+			"vehicleNumber": "車輛編號",
+			"destination": "目的地",
+			"processor": "處理商",
+			"paymentMethod": "付款方式",
+			"totalRebate": "回贈總數",
+			"onSitePayment": "現場付款",
+			"remarks": "附註",
+			"volumeType": "單位",
+			"volumeCollected": "收集量",
+			"bin": "桶",
+			"bag": "袋",
+			"kg": "公斤"
+		}
+	},
+	"subsidySchemeRecords": {
+		"tabName": {
+			"collectionData": "收集數據",
+			"tripTicketSummary": "磅飛摘要",
+			"subsidyPayment": "補貼款項"
+		},
+		"error": {
+			"missingDataAndMisMatch1": "報告不完整和包含錯配的數據。請在提交報告作檢視前，提供所有欠缺的數據和檢查所有錯配記錄 (見",
+			"missingDataAndMisMatch2": "標示) 。",
+			"missingData": "報告不完整。請在提交報告作檢視之前，提供所有欠缺的數據。",
+			"misMatch1": "報告包含錯配的數據。請在提交報告作檢視之前，檢查所有錯配記錄  (見",
+			"misMatch2": "標示) 。",
+			"red": "紅色"
+		},
+		"collectionData": {
+			"title": "上載每月收集紀錄 — 補貼計劃",
+			"collapseAll": "收起全部",
+			"expandAll": "展開全部",
+			"collectionRecord": "收集紀錄",
+			"allRecords": "所有收集紀錄",
+			"collectionDataTab": "收集數據",
+			"selectReport": "選擇報告",
+			"tripNumber": "磅飛號碼",
+			"netWeight": "淨重",
+			"adjustedWeight": "估算重量總數",
+			"collector": "收集商",
+			"statusReport": "報告狀況",
+			"fileUpload": "上載檔案",
+			"singleEntry": "單項輸入",
+			"submitReview": "提交",
+			"createNewReport": "新增每月報告",
+			"closeReport": "關閉報告",
+			"table": {
+				"id": "提取ID",
+				"date": "收集日期",
+				"pickupSource": "提取來源",
+				"name": "名字",
+				"packaging": "包裝種類",
+				"weight": "估算重量 (公斤)"
+			},
+			"modal": {
+				"title": "上載每月收集記錄",
+				"uploadComplete": "上載完成",
+				"deleteConfirmation": "您確定要刪除此記錄？"
+			},
+			"collectionReceipt": {
+				"title": "收集重量單據",
+				"modalTitle": "上載收集重量單據",
+				"trip": "運載紀錄",
+				"pickup": "提取",
+				"collectionData": "收集重量單據"
+			}
+		},
+		"tripTicketSummary": {
+			"transferReceipt": {
+				"title": "轉運站收據",
+				"note": "檔案格式必須為 .png / .jpg / .jpeg ",
+				"table": {
+					"header": {
+						"tripNumber": "磅飛號碼",
+						"pickUpId": "提取ID",
+						"fileName": "檔案名稱",
+						"uploadedBy": "上載人",
+						"uploadedTime": "上載日期"
+					}
+				},
+				"error1": "用戶未被指派為收集商",
+				"error2": "檔案格式錯誤，檔案格式必須為 .png / .jpg / .jpeg ",
+				"error3": "檔案容量過大 (最大10MB)",
+				"modal": {
+					"title": "上載轉運站收據",
+					"fileUpload": "上載檔案",
+					"requirements": "檔案格式必須為 .png / .jpg / .jpeg ",
+					"browse": "瀏覽檔案",
+					"fileName": "已選擇檔案: ",
+					"trip": "運載紀錄",
+					"imageTitle": "- 轉運站收據"
+				},
+				"button": {
+					"cancel": "取消",
+					"upload": "上載"
+				}
+			},
+			"createTripTicket": {
+				"summary": "簡介",
+				"trip": "運載紀錄",
+				"title": "記錄詳情",
+				"label": {
+					"receiptNumber": "磅飛編號",
+					"collectionDate": "收集日期",
+					"vehicleNumber": "車輛編號",
+					"packagingType": "包裝種類",
+					"transferStationName": "轉運站名稱",
+					"entryDate": "輸入日期",
+					"entryTime": "輸入時間",
+					"grossWeight": "毛重 (公斤)",
+					"netWeight": "淨重 (公斤)",
+					"unladenWeight": "皮重 (公斤)"
+				}
+			},
+			"allTripSummary": {
+				"title": "所有磅飛記錄",
+				"table": {
+					"tripNumber": "磅飛號碼",
+					"collectionDate": "收集日期",
+					"packagingType": "包裝種類",
+					"netWeight": "淨重 (公斤)"
+				},
+				"modal": {
+					"title": "上載磅飛記錄",
+					"uploadComplete": "上載完成"
+				}
+			}
+		},
+		"subsidyPayment": {
+			"title": "補貼款項詳情",
+			"paymentMonth": "付款月份",
+			"recipient": "收件人",
+			"approvedVolume": "認可總重量 (公斤)",
+			"subsidyAmount": "補貼總金額 (港元)",
+			"recyclerHKD": "回收商 (港幣)",
+			"frontlineCleanerHKD": "前線清潔員 (港幣)",
+			"rejectButton": "拒絕",
+			"approveButton": "認可",
+			"disputeButton": "異議",
+			"acceptButton": "接受",
+			"rejectModal": {
+				"title": "拒收補貼計劃的每月報告",
+				"labelExplain": "請解釋拒收原因:",
+				"emailNotify": "拒收報告的原因將以電郵通知",
+				"rejectAndNotify": "拒收及通知收集商",
+				"placeholder": "請在此輸入..."
+			},
+			"disputeModal": {
+				"title": "異議已認可補貼計劃付款",
+				"labelExplain": "請解釋異議原因:",
+				"emailNotify": "異議原因將以電郵通知管理員",
+				"rejectAndNotify": "異議及通知管理員",
+				"placeholder": "請在此輸入..."
+			}
+		}
+	},
+	"files": {
+		"title": "所有已上載檔案",
+		"allFilesTitle": "所有已上載的數據收集檔案",
+		"table": {
+			"title": "檔案清單",
+			"header": {
+				"fileName": "檔案名稱",
+				"fileType": "檔案類型",
+				"uploadedOn": "上載日期",
+				"uploadedBy": "上載人"
+			}
+		},
+		"filters": {
+			"type": "組織類型",
+			"name": "組織名稱",
+			"typeValues": {
+				"all": "全部",
+				"campaignPartner": "伙伴拍檔",
+				"collector": "收集商",
+				"recycler": "回收商"
+			}
+		}
+	},
+	"campaignPartner": {
+		"title": "每月收集數據紀錄 — 伙伴拍檔",
+		"table": {
+			"date": "日期",
+			"location": "地點",
+			"packaging": "包裝種類",
+			"volume": "收集量",
+			"volumeType": "單位",
+			"estimatedWeight": "估算重量 (公斤)",
+			"logisticProvider": "物流供應商",
+			"dataProvider": "數據提供者",
+			"volumeTypes": {
+				"bin": "桶",
+				"bag": "袋",
+				"kg": "公斤"
+			}
+		},
+		"modalCreateReport": {
+			"title": "選擇報告時期",
+			"month": "月份:",
+			"year": "年度:",
+			"label": "繼續新增每月報告?",
+			"programName": "計劃:",
+			"programNamePlaceholder": "請選擇計劃",
+			"inactiveSelectedProgram": "計劃不活躍。請檢查及再嘗試。",
+			"duplicated": "找到重覆報告，請檢查及再嘗試。"
+		}
+	},
+	"template": {
+		"head": "檔案上載模板",
+		"title": "檔案上載模板",
+		"files": {
+			"collectorCollectionData": "補貼計劃收集記錄",
+			"tripTicketSummary": "磅飛記錄",
+			"campaignPartnerCollectionData": "伙伴拍檔收集記錄",
+			"location": "地點"
+		}
+	},
+	"campaignScheme": {
+		"details": {
+			"label": {
+				"date": "日期",
+				"location": "地點",
+				"packaging": "包裝種類",
+				"volume": "收集量",
+				"volumeType": "單位",
+				"logisticProvider": "物流供應商",
+				"dataProvider": "數據提供者"
+			}
+		}
+	}
+}

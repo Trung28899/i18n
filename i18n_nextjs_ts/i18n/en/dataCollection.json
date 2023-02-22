@@ -1,0 +1,251 @@
+{
+	"dataCollectionCreate": {
+		"title": "Add Collection Data",
+		"editTitle": "Edit Collection Data",
+		"viewTitle": "View Collection Data",
+		"header": "Record Details",
+		"label": {
+			"tripNumber": "Trip Number",
+			"pickupId": "Pickup ID",
+			"pickupSource": "Pickup Source",
+			"pickupName": "Name",
+			"collectionDate": "Collection Date",
+			"location": "Location",
+			"recycler": "Recycler",
+			"packagingType": "Packaging Type",
+			"volumeBag": "Volume Collected (bags)",
+			"volumeBin": "Volume Collected (bins)",
+			"volumeKg": "Volume Collected (kg)",
+			"adjustedWeight": "Estimated Weight (kg)",
+			"estimatedWeight": "Estimated Weight (kg)",
+			"vehicleNumber": "Vehicle Number",
+			"destination": "Destination",
+			"processor": "Processor",
+			"paymentMethod": "Payment Method",
+			"totalRebate": "Total Rebate",
+			"onSitePayment": "On-Site Payment",
+			"remarks": "Remarks",
+			"volumeType": "Unit Type",
+			"volumeCollected": "Volume",
+			"bin": "Bin",
+			"bag": "Bag",
+			"kg": "Kg"
+		}
+	},
+	"subsidySchemeRecords": {
+		"title": "Subsidy Scheme Records",
+		"tabName": {
+			"collectionData": "Collection Data",
+			"tripTicketSummary": "Trip Ticket Summary",
+			"subsidyPayment": "Subsidy Payment"
+		},
+		"error": {
+			"missingDataAndMisMatch1": "This report is incomplete and contains mismatched data. Please provide all missing data and check all mismatched records (highlighted in ",
+			"missingDataAndMisMatch2": ") before submitting the report for review.",
+			"missingData": "This report is incomplete. Please provide all missing data before submitting the report for review.",
+			"misMatch1": "This report contains mismatched data. Please check all mismatched records (highlighted in ",
+			"misMatch2": ") before submitting the report for review.",
+			"red": "red"
+		},
+		"collectionData": {
+			"title": "Monthly Data Collection Records - Subsidy Scheme",
+			"collapseAll": "Collapse All",
+			"expandAll": "Expand All",
+			"collectionRecord": "Collection Records",
+			"selectReport": "Select Report",
+			"allRecords": "All Collection Data Records",
+			"collectionDataTab": "Collection Data",
+			"tripNumber": "Trip Number",
+			"netWeight": "Net Weight",
+			"adjustedWeight": "Total Estimated Weight",
+			"statusReport": "Report Status",
+			"fileUpload": "File Upload",
+			"singleEntry": "Single Entry",
+			"submitReview": "Submit",
+			"createNewReport": "Create New Monthly Report",
+			"closeReport": "Close Report",
+			"table": {
+				"id": "Pickup ID",
+				"date": "Collection Date",
+				"pickupSource": "Pickup Source",
+				"name": "Name",
+				"packaging": "Packaging Type",
+				"weight": "Estimated Weight (kg)"
+			},
+			"modal": {
+				"title": "Upload Monthly Data Collection Records",
+				"uploadComplete": "Upload Complete",
+				"deleteConfirmation": "Are you sure you want to delete this record?"
+			},
+			"collectionReceipt": {
+				"title": "Collection Data Receipts",
+				"modalTitle": "Upload Collection Data Receipt",
+				"trip": "Trip",
+				"pickup": "Pickup",
+				"collectionData": "Collection Data Receipt"
+			}
+		},
+		"tripTicketSummary": {
+			"transferReceipt": {
+				"title": "Transfer Station Receipts",
+				"note": "Files must be of type .png/.jpg /.jpeg",
+				"table": {
+					"header": {
+						"tripNumber": "Trip Number",
+						"pickUpId": "Pickup ID",
+						"fileName": "File Name",
+						"uploadedBy": "Uploaded By",
+						"uploadedTime": "Uploaded On"
+					}
+				},
+				"error1": "User has not been assigned to a collector",
+				"error2": "Invalid file extension. Files must be of type .png / .jpg / .jpeg",
+				"error3": "File is too big (Max 10mb)",
+				"modal": {
+					"title": "Upload Transfer Station Receipt",
+					"fileUpload": "File Upload",
+					"requirements": "Files must be of type .png / .jpg / .jpeg",
+					"browse": "Browse Files",
+					"fileName": "File Chosen: ",
+					"trip": "Trip",
+					"imageTitle": "- Transfer Station Receipt"
+				},
+				"button": {
+					"cancel": "Cancel",
+					"upload": "Upload"
+				}
+			},
+			"createTripTicket": {
+				"summary": "Summary",
+				"trip": "Trip",
+				"title": "Record Details",
+				"label": {
+					"receiptNumber": "Trip Ticket Receipt Number",
+					"collectionDate": "Collection Date",
+					"vehicleNumber": "Vehicle Number",
+					"packagingType": "Packaging Type",
+					"transferStationName": "Transfer Station Name",
+					"entryDate": "Transfer Station Receipt Date/Time",
+					"entryTime": "Entry Time",
+					"grossWeight": "Gross Weight (kg)",
+					"netWeight": "Net Weight (kg)",
+					"unladenWeight": "Unladen Weight (kg)"
+				}
+			},
+			"allTripSummary": {
+				"title": "All Trip Ticket Summary Records",
+				"table": {
+					"tripNumber": "Trip Number",
+					"collectionDate": "Collection Date",
+					"packagingType": "Packaging Type",
+					"netWeight": "Net Weight (kg)"
+				},
+				"modal": {
+					"title": "Upload Trip Ticket Summary Records",
+					"uploadComplete": "Upload Complete"
+				}
+			}
+		},
+		"subsidyPayment": {
+			"title": "Subsidy Payment Details",
+			"paymentMonth": "Payment Month",
+			"recipient": "Recipient",
+			"approvedVolume": "Total Approved Volume (kg)",
+			"subsidyAmount": "Total Subsidy Amount (HKD)",
+			"recyclerHKD": "Recycler (HKD)",
+			"frontlineCleanerHKD": "Frontline Cleaners (HKD)",
+			"rejectButton": "Reject",
+			"approveButton": "Approve",
+			"disputeButton": "Dispute",
+			"acceptButton": "Accept",
+			"rejectModal": {
+				"title": "Reject Subsidy Scheme Monthly Report",
+				"labelExplain": "Please explain the reason for the rejection:",
+				"emailNotify": "An email notification of the report rejection and reason will be send to",
+				"rejectAndNotify": "Reject and Notify Collector",
+				"placeholder": "Please type here..."
+			},
+			"disputeModal": {
+				"title": "Dispute Approved Subsidy Scheme Payment",
+				"labelExplain": "Please explain the reason for the dispute:",
+				"emailNotify": "An email notification of the payment dispute and reason will be sent to the Administrator.",
+				"rejectAndNotify": "Dispute and Notify Administrator",
+				"placeholder": "Please type here..."
+			}
+		}
+	},
+	"files": {
+		"title": "All Uploaded Files",
+		"allFilesTitle": "All Data Collection Uploaded Files",
+		"table": {
+			"title": "File List",
+			"header": {
+				"fileName": "File Name",
+				"fileType": "File Type",
+				"uploadedOn": "Uploaded On",
+				"uploadedBy": "Uploaded By"
+			}
+		},
+		"filters": {
+			"type": "Organization Type",
+			"name": "Organization Name",
+			"typeValues": {
+				"all": "All",
+				"campaignPartner": "Campaign Partner",
+				"collector": "Collector",
+				"recycler": "Recycler"
+			}
+		}
+	},
+	"campaignPartner": {
+		"title": "Monthly Data Collection Records - Campaign Scheme",
+		"table": {
+			"date": "Date",
+			"location": "Location",
+			"packaging": "Packaging Type",
+			"volume": "Volume",
+			"volumeType": "Volume Type",
+			"estimatedWeight": "Estimated Weight (kg)",
+			"logisticProvider": "Logistic Provider",
+			"dataProvider": "Data Provider",
+			"volumeTypes": {
+				"bin": "Bin",
+				"bag": "Bag",
+				"kg": "Kg"
+			}
+		},
+		"modalCreateReport": {
+			"title": "Select Reporting Period",
+			"month": "Month:",
+			"year": "Year:",
+			"label": "Proceed to create monthly report?",
+			"programName": "Program:",
+			"programNamePlaceholder": "Please select program",
+			"inactiveSelectedProgram": "Program is not active. Please check and try again.",
+			"duplicated": "Duplicate report found - please check and try again."
+		}
+	},
+	"template": {
+		"head": "File Upload Templates",
+		"title": "File Upload Templates",
+		"files": {
+			"collectorCollectionData": "Subsidy Scheme Collection Record",
+			"tripTicketSummary": "Trip Ticket Summary Record",
+			"campaignPartnerCollectionData": "Campaign Scheme Collection Record",
+			"location": "Locations"
+		}
+	},
+	"campaignScheme": {
+		"details": {
+			"label": {
+				"date": "Date",
+				"location": "Location",
+				"packaging": "Packaging Type",
+				"volume": "Volume",
+				"volumeType": "Volume Type",
+				"logisticProvider": "Logistic Provider",
+				"dataProvider": "Data Provider"
+			}
+		}
+	}
+}

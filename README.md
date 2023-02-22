@@ -16,3 +16,12 @@
   +, See App.js to see how to switch language
 
 ## II. i18n with Next.js and TypeScript
+
+- Visist folder: i18n_nextjs_ts, run $ npm run dev
+
+- How to setupt i18n ?
+  +, Run this command: $ npm install --save next-export-i18n
+
+- Copy the whole i18n folder for setup
+
+- See how to use it in /pages/index.tsx

@@ -1,0 +1,35 @@
+{
+	"uploadModal": {
+		"title": "File cannot be uploaded due to the following issue(s), please check and try again.",
+		"missingData": "Important data missing: ",
+		"invalidField": "Data not matched with the list of supported values: ",
+		"invalidField2": "Provided values for the following fields do not match supported values: ",
+		"mustBeNumber": "Data provided must be a number: ",
+		"mustBeDateFormat": "Data provided must be in DD/MM/YYYY format: ",
+		"invalidLongLat": "Data provided must be a number with a value up to five decimal places:",
+		"dateLaterThanToday": "Date(s) cannot be later than today",
+		"invalidCollectionDateFormat": "Collection Date(s) must be in DD/MM/YYYY format",
+		"invalidDateFormat": "Date(s) must be in DD/MM/YYYY format",
+		"invalidEntryDateFormat": "Transfer Station Receipt Date/Time must be in DD/MM/YYYY HH:MM format.",
+		"entryDateBeforeCollectionDate": "The Transfer Station Receipt Date/Time cannot be earlier than Collection Date",
+		"duplicatedTripNumbers": "Duplicated Trip Number(s)",
+		"tripNumberNotFound": "Trip Number(s) not found",
+		"multipleCollectionDateInFile": "Collection Date(s) provided in the file must have the same month and year",
+		"collectionDateDifferentFromReportDate": "Collection Date(s) must have the same month and year as the current monthly report",
+		"collectionDateDifferentFromReportDate2": "Date(s) does not match with the reporting period of the current report",
+		"programNotMatch": "Program(s) does not match with the program name of the current report.",
+		"volumeGreaterThan0": "Volume(s) must be greater than 0",
+		"kgVolumeHaveMultiDecimal": {
+			"subsidyScheme": "Volume Collected (kg) must be up to one decimal place only",
+			"campaignScheme": "Volume must be up to one decimal place only"
+		}
+	},
+	"dataCollection": {
+		"invalidDate": "Collection date must have the same month and year as the current monthly report",
+		"notLaterThanToday": "Date cannot be later than today",
+		"entryDateEarlierThanCollectionDate": "The Entry Date cannot be earlier than Collection Date"
+	},
+	"campaignProgram": {
+		"endDateError": "End Date is incomplete"
+	}
+}

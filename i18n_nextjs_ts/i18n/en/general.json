@@ -1,0 +1,147 @@
+{
+	"button": {
+		"cancel": "Cancel",
+		"createNew": "Create New",
+		"edit": "Edit",
+		"details": "Details",
+		"save": "Save",
+		"addData": "Add Data",
+		"delete": "Delete",
+		"upload": "Upload",
+		"more": "More",
+		"addNewValue": "Add New Value",
+		"no": "No",
+		"yes": "Yes",
+		"download": "Download",
+		"exportList": "Export List"
+	},
+	"menu": {
+		"dashboard": {
+			"title": "Dashboard",
+			"subsidy": "Subsidy Scheme",
+			"campaign": "Campaign Scheme",
+			"collectionHeatmap": "Collection Heatmap"
+		},
+		"userManagement": "User Management",
+		"vendorManagement": {
+			"collectors": "Collectors",
+			"locations": "Locations",
+			"title": "Vendor Management",
+			"recycler": "Recyclers",
+			"campaignPartner": "Campaign Partners",
+			"campaignPrograms": "Campaign Programs"
+		},
+		"dataCollection": {
+			"title": "Data Collection",
+			"templates": "Templates",
+			"subsidySchemeRecords": "Subsidy Scheme Records",
+			"campaignSchemeRecords": "Campaign Scheme Records",
+			"allUploadedFiles": "All Uploaded Files"
+		},
+		"masterData": {
+			"title": "Master Data"
+		}
+	},
+	"grids": {
+		"loadingFailed": "Failed to load",
+		"loading": "Loading..."
+	},
+	"signIn": "Sign In",
+	"signOut": "Sign Out",
+	"userStatus": {
+		"active": "Active",
+		"inactive": "Inactive"
+	},
+	"validation": {
+		"required": "Field is required",
+		"email": "Field must be a valid email",
+		"phone": "Field must be a valid phone number",
+		"date": "Field must be a valid date",
+		"mustBeNumber": "Field must be a number",
+		"greaterThanZero": "Field must be greater than 0",
+		"mustBeDate": "Field must be valid date",
+		"existedValue": "This value already exists",
+		"allRequired": "All fields are required.",
+		"allAsteriskRequired": "All fields marked with an asterisk (*) are required.",
+		"atLeastOneVolume": "#At least one of the Volume Collected fields is required."
+	},
+	"labels": {
+		"address": "Address",
+		"location": "Location",
+		"locations": "Locations",
+		"packagingTypes": "Packaging Types",
+		"category": "Category",
+		"district": "District",
+		"email": "Email",
+		"name": "Name",
+		"scheme": "Scheme",
+		"month": "Month:",
+		"year": "Year:",
+		"status": "Status:",
+		"collector": "Collector:",
+		"partners": "Partners:",
+		"all": "All",
+		"region": "Region",
+		"kg": "kg",
+		"program": "Program:",
+		"total": "Total",
+		"subsidy": "Subsidy",
+		"campaign": "Campaign",
+		"schemeVolume": "Scheme Volume",
+		"estimatedWeight": "Estimated Weight",
+		"discrepancy": "Discrepancy"
+	},
+	"filters": {
+		"month": "All",
+		"allStatus": "All",
+		"allYear": "All",
+		"collector": "All",
+		"partner": "All",
+		"activeRecords": "Active Records",
+		"select": "Select"
+	},
+	"schemes": {
+		"Subsidy": "Subsidy",
+		"CampaignPartner": "Campaign Partner"
+	},
+	"time": "Time",
+	"numberToMonth": {
+		"1": "January",
+		"2": "February",
+		"3": "March",
+		"4": "April",
+		"5": "May",
+		"6": "June",
+		"7": "July",
+		"8": "August",
+		"9": "September",
+		"10": "October",
+		"11": "November",
+		"12": "December"
+	},
+	"upload": {
+		"fileUpload": "File Upload",
+		"browseFile": "Browse Files",
+		"fileMustBe": "Files must be of type",
+		"fileName": "File Name",
+		"invalidFile": "Invalid file extension. Files must be of type",
+		"invalidFileSize": "File is too big (Max {{size}}mb)",
+		"uploadFailed": "Cannot upload file, please try again."
+	},
+	"volumeTypes": {
+		"bin": "Bin",
+		"bag": "Bag",
+		"kg": "Kg",
+		"unit": "Unit"
+	},
+	"statuses": {
+		"open": "Open",
+		"review": "Review",
+		"closed": "Closed",
+		"accepted": "Accepted",
+		"disputed": "Disputed",
+		"rejected": "Rejected",
+		"submitted": "Submitted",
+		"approved": "Approved"
+	}
+}

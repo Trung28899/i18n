@@ -1,0 +1,35 @@
+{
+	"uploadModal": {
+		"title": "檔案因以下原因沒法上載，請檢查及再嘗試。",
+		"missingData": "欠缺重要數據：",
+		"invalidField": "數據與支援數值不吻合：",
+		"invalidField2": "以下資料提供的數值與支援數值不吻合：",
+		"mustBeNumber": "數據必須為數字：",
+		"mustBeDateFormat": "日期格式必須為DD/MM/YYYY:",
+		"invalidLongLat": "數據必須為數字，數值最多為小數點後五個位：",
+		"dateLaterThanToday": "日期不可晚於今天",
+		"invalidCollectionDateFormat": "收集日期格式必須為DD/MM/YYYY",
+		"invalidEntryDateFormat": "輸入日期格子必須為DD/MM/YYYY HH:MM",
+		"invalidDateFormat": "日期格式必須為DD/MM/YYYY",
+		"entryDateBeforeCollectionDate": "輸入日期不可早於收集日期",
+		"duplicatedTripNumbers": "重覆磅飛號碼",
+		"tripNumberNotFound": "未找到磅飛號碼",
+		"multipleCollectionDateInFile": "檔案內的收集日期必須為同年同月",
+		"collectionDateDifferentFromReportDate": "收集日期必須跟當前的每月報告為同年同月",
+		"collectionDateDifferentFromReportDate2": "日期與當前的每月報告時期不吻合",
+		"programNotMatch": "計劃與當前報告的計劃名稱不吻合。",
+		"volumeGreaterThan0": "收集量必需大於零。",
+		"kgVolumeHaveMultiDecimal": {
+			"subsidyScheme": "收集數量 (公斤) 只能保留一位小數",
+			"campaignScheme": "數量只能保留一位小數"
+		}
+	},
+	"dataCollection": {
+		"invalidDate": "收集日期必須跟當前的每月報告為同年同月",
+		"notLaterThanToday": "日期不能遲於今天",
+		"entryDateEarlierThanCollectionDate": "輸入日期不能早於收集日期"
+	},
+	"campaignProgram": {
+		"endDateError": "未完成結束日期"
+	}
+}

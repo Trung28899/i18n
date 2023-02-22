@@ -1,0 +1,20 @@
+{
+	"tableTitle": "主數據清單",
+	"masterDataDetail": "主數據詳情",
+	"table": {
+		"name": "名字",
+		"updatedBy": "上載人",
+		"updatedOn": "上載日期"
+	},
+	"masterDataForm": {
+		"name": "名字",
+		"value": "數值"
+	},
+	"masterDataTitle": {
+		"Payment Methods": "付款方式",
+		"Operators": "營運商",
+		"Available Container": "可用的包裝種類",
+		"Categories (internal use)": "種類 (內部用)",
+		"Categories": "種類"
+	}
+}

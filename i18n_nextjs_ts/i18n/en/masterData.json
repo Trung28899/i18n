@@ -1,0 +1,20 @@
+{
+	"tableTitle": "Master Data List",
+	"masterDataDetail": "Master Data Details",
+	"table": {
+		"name": "Name",
+		"updatedBy": "Updated By",
+		"updatedOn": "Updated On"
+	},
+	"masterDataForm": {
+		"name": "Name",
+		"value": "Values"
+	},
+	"masterDataTitle": {
+		"Payment Methods": "Payment Methods",
+		"Operators": "Operators",
+		"Available Container": "Available Container",
+		"Categories (internal use)": "Categories (internal use)",
+		"Categories": "Categories"
+	}
+}

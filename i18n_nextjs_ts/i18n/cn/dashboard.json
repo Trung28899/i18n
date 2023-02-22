@@ -1,0 +1,136 @@
+{
+	"admin": {
+		"header": "管理員控制台",
+		"counting": {
+			"location": {
+				"header": "地點",
+				"note": "DWW 網絡收集點總數"
+			},
+			"user": {
+				"header": "用戶",
+				"note": "DWW 網絡收集點用戶總數",
+				"collector": "收集商",
+				"recycler": "回收商"
+			}
+		}
+	},
+	"subsidyScheme": {
+		"header": "補貼計劃控制台",
+		"chartTitle": "每月趨勢 — 補貼計劃",
+		"collectionVolume": {
+			"header": "補貼計劃總數量"
+		}
+	},
+	"heatmap": {
+		"header": "收集數量熱圖",
+		"packagingHeader": "我們的數量",
+		"mapMarker": {
+			"collectedVolume": "收集數量 (公斤)："
+		}
+	},
+	"collector": {
+		"header": "收集商控制台",
+		"packagingHeader": "我們的數量",
+		"chartTitle": "每月趨勢 — 補貼計劃",
+		"contribution": {
+			"title": "我們的貢獻",
+			"subTitle": "在補貼計劃的貢獻？",
+			"ourContributionLabel": "我們的貢獻",
+			"totalCollectedLabel": "總收集數量",
+			"other": "其他的貢獻"
+		}
+	},
+	"campaign_partner": {
+		"header": "伙伴拍檔控制台",
+		"packagingHeader": "我們的數量",
+		"chartTitle": "每月趨勢 - 伙伴計劃",
+		"collectionVolume": {
+			"header": "伙伴拍檔總數量"
+		},
+		"user": {
+			"header": "用戶",
+			"partners": "伙伴拍檔",
+			"note": "伙伴拍檔的用戶總數"
+		},
+		"contribution": {
+			"title": "我們的貢獻",
+			"subTitle": "我們對回收的貢獻？",
+			"ourContributionLabel": "我們的貢獻",
+			"totalCollectedLabel": "總收集數量",
+			"other": "其他的貢獻"
+		}
+	},
+	"public": {
+		"title": "免「廢」暢飲 — 收集數量",
+		"chartTitle": "每月趨勢",
+		"toggleUnits": "切換單位",
+		"packageTypes": {
+			"All": "總數",
+			"Metal Cans": "金屬罐",
+			"Liquid Cartons": "紙包飲品盒",
+			"Plastic Bottles": "膠樽",
+			"Glass Bottles": "玻璃樽"
+		},
+		"publicPackageTypesLabels": {
+			"toSee": "轉換單位為",
+			"here": "這裡",
+			"click": "按",
+			"kg": "公斤。",
+			"unit": "個。",
+			"Metal Cans": {
+				"TotalKG": "已回收金屬罐 (公斤)",
+				"TotalUnit": "已回收金屬罐",
+				"MonthlyKG": "上月回收公斤的金屬罐",
+				"MonthlyUnit": "上個月已回收金屬罐",
+				"switch": "1個金屬罐約等於"
+			},
+			"Liquid Cartons": {
+				"TotalKG": "已回收紙包飲品盒 (公斤)",
+				"TotalUnit": "已回收紙包飲品盒",
+				"MonthlyKG": "上月回收公斤的紙包飲品盒",
+				"MonthlyUnit": "上個月已回收紙包飲品盒",
+				"switch": "1個紙包飲品盒約等於"
+			},
+			"Plastic Bottles": {
+				"TotalKG": "已回收膠樽 (公斤)",
+				"TotalUnit": "已回收膠樽",
+				"MonthlyKG": "上月回收公斤的膠樽",
+				"MonthlyUnit": "上個月已回收膠樽",
+				"switch": "1個膠樽約等於"
+			},
+			"Glass Bottles": {
+				"TotalKG": "已回收玻璃樽 (公斤)",
+				"TotalUnit": "已回收玻璃樽",
+				"MonthlyKG": "上月回收公斤的玻璃樽",
+				"MonthlyUnit": "上個月已回收玻璃樽",
+				"switch": "1個玻璃樽約等於"
+			}
+		},
+		"packageTypesLabels": {
+			"Metal Cans": {
+				"TotalKG": "收集總數 (公斤)",
+				"TotalUnit": "金屬罐總收集量",
+				"MonthlyKG": "上月收集量 (公斤)",
+				"MonthlyUnit": "金屬罐上月收集量"
+			},
+			"Liquid Cartons": {
+				"TotalKG": "收集總數 (公斤)",
+				"TotalUnit": "紙包飲品盒收集量",
+				"MonthlyKG": "上月收集量 (公斤)",
+				"MonthlyUnit": "紙包飲品盒上月收集量"
+			},
+			"Plastic Bottles": {
+				"TotalKG": "收集總數 (公斤)",
+				"TotalUnit": "膠樽收集總收集量",
+				"MonthlyKG": "上月收集量 (公斤)",
+				"MonthlyUnit": "膠樽上月收集量"
+			},
+			"Glass Bottles": {
+				"TotalKG": "收集總數 (公斤)",
+				"TotalUnit": "塑膠樽收集總數",
+				"MonthlyKG": "上月收集量 (公斤)",
+				"MonthlyUnit": "塑膠樽上月收集數量"
+			}
+		}
+	}
+}

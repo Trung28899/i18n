@@ -1,0 +1,136 @@
+{
+	"admin": {
+		"header": "Admin Dashboard",
+		"counting": {
+			"location": {
+				"header": "Locations",
+				"note": "Total number of locations in the DWW network"
+			},
+			"user": {
+				"header": "Users",
+				"note": "Total number of Subsidy Scheme users in the DWW network",
+				"collector": "Collectors",
+				"recycler": "Recyclers"
+			}
+		}
+	},
+	"subsidyScheme": {
+		"header": "Subsidy Scheme Dashboard",
+		"chartTitle": "Monthly Trends - Subsidy Scheme",
+		"collectionVolume": {
+			"header": "Subsidy scheme total volume"
+		}
+	},
+	"heatmap": {
+		"header": "Collection Volume Heat Map",
+		"packagingHeader": "Our Volume",
+		"mapMarker": {
+			"collectedVolume": "Collected Volume (KG):"
+		}
+	},
+	"collector": {
+		"header": "Collector Dashboard",
+		"packagingHeader": "Our Volume",
+		"chartTitle": "Monthly Trends - Subsidy Scheme",
+		"contribution": {
+			"title": "Our Contribution",
+			"subTitle": "How much have we contributed to the subsidy scheme",
+			"ourContributionLabel": "Our Contribution",
+			"totalCollectedLabel": "Total Collected",
+			"other": "Other Contribution"
+		}
+	},
+	"campaign_partner": {
+		"header": "Campaign Partner Dashboard",
+		"packagingHeader": "Campaign scheme total volume",
+		"chartTitle": "Monthly Trends - Campaign Scheme",
+		"collectionVolume": {
+			"header": "Campaign scheme total volume"
+		},
+		"user": {
+			"header": "Users",
+			"partners": "Campaign Partners",
+			"note": "Total number of Campaign Scheme users in the DWW network"
+		},
+		"contribution": {
+			"title": "Our Contribution",
+			"subTitle": "How much have we contributed to the scheme",
+			"ourContributionLabel": "Our Contribution",
+			"totalCollectedLabel": "Total Collected",
+			"other": "Other Contribution"
+		}
+	},
+	"public": {
+		"title": "Drink Without Waste - Collection Volume",
+		"chartTitle": "Monthly Trends",
+		"toggleUnits": "Toggle Units",
+		"packageTypes": {
+			"All": "Total",
+			"Metal Cans": "Metal Cans",
+			"Liquid Cartons": "Liquid Cartons",
+			"Plastic Bottles": "Plastic Bottles",
+			"Glass Bottles": "Glass Bottles"
+		},
+		"publicPackageTypesLabels": {
+			"toSee": "to see data in",
+			"here": "here",
+			"click": "Click",
+			"kg": "kg.",
+			"unit": "units.",
+			"Metal Cans": {
+				"TotalKG": "Kg of metal cans recovered",
+				"TotalUnit": "Metal cans recovered",
+				"MonthlyKG": "Kg of metal cans recovered last month",
+				"MonthlyUnit": "Metal cans recovered last month",
+				"switch": "1 metal can is about"
+			},
+			"Liquid Cartons": {
+				"TotalKG": "Kg of liquid cartons recovered",
+				"TotalUnit": "Liquid cartons recovered",
+				"MonthlyKG": "Kg of liquid cartons recovered last month",
+				"MonthlyUnit": "Liquid cartons recovered last month",
+				"switch": "1 carton is about"
+			},
+			"Plastic Bottles": {
+				"TotalKG": "Kg of plastic bottles recovered",
+				"TotalUnit": "Plastic bottles recovered",
+				"MonthlyKG": "Kg of plastic bottles recovered last month",
+				"MonthlyUnit": "Plastic bottles recovered last month",
+				"switch": "1 plastic bottle is about"
+			},
+			"Glass Bottles": {
+				"TotalKG": "Kg of glass bottles recovered",
+				"TotalUnit": "Glass bottles recovered",
+				"MonthlyKG": "Kg of glass bottles recovered last month",
+				"MonthlyUnit": "Glass bottles recovered last month",
+				"switch": "1 glass bottle is about"
+			}
+		},
+		"packageTypesLabels": {
+			"Metal Cans": {
+				"TotalKG": "Total Collected (kg)",
+				"TotalUnit": "Total Collected (Cans)",
+				"MonthlyKG": "Last Month Collected (kg)",
+				"MonthlyUnit": "Last Month Collected (Cans)"
+			},
+			"Liquid Cartons": {
+				"TotalKG": "Total Collected (kg)",
+				"TotalUnit": "Total Collected (Cartons)",
+				"MonthlyKG": "Last Month Collected (kg)",
+				"MonthlyUnit": "Last Month Collected (Cartons)"
+			},
+			"Plastic Bottles": {
+				"TotalKG": "Total Collected (kg)",
+				"TotalUnit": "Total Collected (Bottles)",
+				"MonthlyKG": "Last Month Collected (kg)",
+				"MonthlyUnit": "Last Month Collected (Bottles)"
+			},
+			"Glass Bottles": {
+				"TotalKG": "Total Collected (kg)",
+				"TotalUnit": "Total Collected (Bottles)",
+				"MonthlyKG": "Last Month Collected (kg)",
+				"MonthlyUnit": "Last Month Collected (Bottles)"
+			}
+		}
+	}
+}

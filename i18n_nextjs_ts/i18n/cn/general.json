@@ -1,0 +1,146 @@
+{
+	"button": {
+		"cancel": "取消",
+		"createNew": "新增",
+		"edit": "編輯",
+		"details": "詳情",
+		"save": "儲存",
+		"addData": "新增數據",
+		"delete": "刪除",
+		"upload": "上載",
+		"more": "更多",
+		"addNewValue": "新增數值",
+		"no": "否",
+		"yes": "是",
+		"download": "下載",
+		"exportList": "滙出清單"
+	},
+	"menu": {
+		"dashboard": {
+			"title": "儀表版",
+			"subsidy": "補貼計劃收集記錄",
+			"campaign": "伙伴計劃",
+			"collectionHeatmap": "收集熱點圖"
+		},
+		"userManagement": "用戶",
+		"vendorManagement": {
+			"collectors": "收集商",
+			"locations": "地點",
+			"title": "供應商",
+			"recycler": "回收商",
+			"campaignPartner": "活動方案夥伴",
+			"campaignPrograms": "伙伴拍檔計劃"
+		},
+		"dataCollection": {
+			"title": "資料收集",
+			"templates": "模板",
+			"subsidySchemeRecords": "資助計劃記錄",
+			"campaignSchemeRecords": "活動計劃記錄",
+			"allUploadedFiles": "檔案"
+		},
+		"masterData": {
+			"title": "主數據"
+		}
+	},
+	"grids": {
+		"loadingFailed": "載入失敗",
+		"loading": "載入中..."
+	},
+	"signIn": "登入",
+	"signOut": "登出",
+	"userStatus": {
+		"active": "活躍",
+		"inactive": "不活躍"
+	},
+	"validation": {
+		"required": "必須輸入",
+		"email": "必須輸入有效電郵",
+		"phone": "必須輸入有效電話號碼",
+		"date": "必須輸入有效日期",
+		"mustBeNumber": "必須輸入數字",
+		"greaterThanZero": "必須大於零",
+		"mustBeDate": "必須輸入有效日期",
+		"existedValue": "此數值已存在",
+		"allRequired": "所有欄位為必填項",
+		"allAsteriskRequired": "*必填欄位",
+		"atLeastOneVolume": "#必填至少一行收集量欄位"
+	},
+	"labels": {
+		"address": "地址",
+		"location": "地點",
+		"locations": "地點",
+		"packagingTypes": "包裝種類",
+		"category": "種類",
+		"district": "地區",
+		"email": "電郵",
+		"name": "名字",
+		"scheme": "計劃",
+		"month": "月份:",
+		"year": "年度:",
+		"status": "狀態:",
+		"collector": "收集商:",
+		"partners": "夥伴:",
+		"all": "全部",
+		"region": "區域",
+		"kg": "公斤",
+		"program": "計劃:",
+		"total": "總額",
+		"subsidy": "補貼計劃收集記錄",
+		"campaign": "伙伴計劃",
+		"schemeVolume": "計劃數量",
+		"estimatedWeight": "估算重量",
+		"discrepancy": "相差"
+	},
+	"filters": {
+		"month": "全部",
+		"allStatus": "全部",
+		"allYear": "全部",
+		"collector": "全部",
+		"partner": "全部",
+		"activeRecords": "活躍記錄",
+		"select": "請選擇"
+	},
+	"schemes": {
+		"Subsidy": "補貼計劃收集記錄",
+		"CampaignPartner": "伙伴計劃"
+	},
+	"numberToMonth": {
+		"1": "一月",
+		"2": "二月",
+		"3": "三月",
+		"4": "四月",
+		"5": "五月",
+		"6": "六月",
+		"7": "七月",
+		"8": "八月",
+		"9": "九月",
+		"10": "十月",
+		"11": "十一月",
+		"12": "十二月"
+	},
+	"upload": {
+		"fileUpload": "上載檔案",
+		"browseFile": "瀏覽檔案",
+		"fileMustBe": "指定檔案格式",
+		"fileName": "檔案名稱",
+		"invalidFile": "檔案格式錯誤，檔案格式必須為",
+		"invalidFileSize": "檔案容量過大 (最大{{size}}MB)",
+		"uploadFailed": "沒法上載，請再嘗試。"
+	},
+	"volumeTypes": {
+		"bin": "桶",
+		"bag": "袋",
+		"kg": "公斤",
+		"unit": "個"
+	},
+	"statuses": {
+		"open": "打開",
+		"review": "檢視中",
+		"closed": "已結束",
+		"accepted": "已接受",
+		"disputed": "已異議",
+		"rejected": "已拒絕",
+		"submitted": "已提交",
+		"approved": "已認可"
+	}
+}
